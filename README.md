@@ -13,7 +13,7 @@ library(ggplot2)
 #made of 4 columns, the first shows country names, the second shows the land area, the third shows the forest cover area, and the fourth 
 #shows the ratio forest cover/land area. Rows are, of course, the single state names and their values for each parameter.
 #We decided to use the datasets of years 1990 and 2020 and set our null hypothesis (h0) to "there isn't any evidence for a change in forest cover/land area ratio from 1990 to 2020"
-# In an opposite scenario, if h0 is not proved to be true, 
+#In an opposite scenario, if h0 is not proved to be true, 
 #then (h1) "the level of forest cover has changed over the course of these 40 years, leading to a significantly lower mean of the forest cover/land area between 1990 and 2020".
 
 #Importing datasets and addressing them to variables 
